@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+.container{
+  margin: auto;
+  max-width: 70vw;
+}
+
+.white{
+  color: white;
+}
+
+.bgblack{
+  background-color: black;
+}
+
+.Dongle{
+  font-family: Dongle;
+}
+
+.centre{
+  text-align: center;
+}
+
+.size40{
+  font-size: 40px;
+}
+
+.size50{
+  font-size: 50px;
+}
+
+.size30{
+  font-size: 30px;
+}
+.size45{
+  font-size: 45px;
+}
+
+.sticky{
+ position: sticky;
+ top: 0px;
+}
+
+.marginauto{
+  display: block;
+  margin: auto;
+}
